@@ -1,0 +1,42 @@
+{"logOfDays": [
+    {
+        "date": "2023-01-02",
+        "glassesOfWater": 6,
+        "pagesRead": 20,
+        "mood": 4,
+        "wentToGym": true,
+        "hoursOnPhone": 2
+    },
+    {
+        "date": "2023-08-25",
+        "glassesOfWater": 3,
+        "pagesRead": 13,
+        "mood": 1,
+        "wentToGym": false,
+        "hoursOnPhone": 0
+    },
+    {
+        "date": "2023-11-19",
+        "glassesOfWater": 1,
+        "pagesRead": 1,
+        "mood": 2,
+        "wentToGym": false,
+        "hoursOnPhone": 1
+    },
+    {
+        "date": "2023-11-28",
+        "glassesOfWater": 1,
+        "pagesRead": 1,
+        "mood": 2,
+        "wentToGym": true,
+        "hoursOnPhone": 1
+    },
+    {
+        "date": "2023-11-29",
+        "glassesOfWater": 1,
+        "pagesRead": 2,
+        "mood": 3,
+        "wentToGym": true,
+        "hoursOnPhone": 4
+    }
+]}

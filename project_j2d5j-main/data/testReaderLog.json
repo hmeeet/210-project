@@ -1,0 +1,22 @@
+{
+  "logOfDays": [
+    {
+      "date": "2023-01-02",
+      "glassesOfWater": 6,
+      "pagesRead": 20,
+      "mood": 4,
+      "wentToGym": true,
+      "hoursOnPhone": 2
+    },
+    {
+      "date": "2023-08-25",
+      "glassesOfWater": 3,
+      "pagesRead": 13,
+      "mood": 1,
+      "wentToGym": false,
+      "hoursOnPhone": 0
+    }
+  ]
+}
+
+
